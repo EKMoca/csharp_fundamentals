@@ -1,0 +1,15 @@
+/home/rizalino/repos/csharp_fundamentals/hello_world/obj/Debug/net9.0/hello_world.GeneratedMSBuildEditorConfig.editorconfig
+/home/rizalino/repos/csharp_fundamentals/hello_world/obj/Debug/net9.0/hello_world.AssemblyInfoInputs.cache
+/home/rizalino/repos/csharp_fundamentals/hello_world/obj/Debug/net9.0/hello_world.AssemblyInfo.cs
+/home/rizalino/repos/csharp_fundamentals/hello_world/obj/Debug/net9.0/hello_world.csproj.CoreCompileInputs.cache
+/home/rizalino/repos/csharp_fundamentals/hello_world/obj/Debug/net9.0/hello_world.sourcelink.json
+/home/rizalino/repos/csharp_fundamentals/hello_world/bin/Debug/net9.0/hello_world
+/home/rizalino/repos/csharp_fundamentals/hello_world/bin/Debug/net9.0/hello_world.deps.json
+/home/rizalino/repos/csharp_fundamentals/hello_world/bin/Debug/net9.0/hello_world.runtimeconfig.json
+/home/rizalino/repos/csharp_fundamentals/hello_world/bin/Debug/net9.0/hello_world.dll
+/home/rizalino/repos/csharp_fundamentals/hello_world/bin/Debug/net9.0/hello_world.pdb
+/home/rizalino/repos/csharp_fundamentals/hello_world/obj/Debug/net9.0/hello_world.dll
+/home/rizalino/repos/csharp_fundamentals/hello_world/obj/Debug/net9.0/refint/hello_world.dll
+/home/rizalino/repos/csharp_fundamentals/hello_world/obj/Debug/net9.0/hello_world.pdb
+/home/rizalino/repos/csharp_fundamentals/hello_world/obj/Debug/net9.0/hello_world.genruntimeconfig.cache
+/home/rizalino/repos/csharp_fundamentals/hello_world/obj/Debug/net9.0/ref/hello_world.dll
